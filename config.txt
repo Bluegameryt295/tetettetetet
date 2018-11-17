@@ -3,4 +3,4 @@ owner=392950841935527936
 prefix=~>
 game=By Bahaa alzag
 stayinchannel=true
-songinstatus=true
+songinstatus=false
