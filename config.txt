@@ -1,6 +1,6 @@
 token=NTEzMjI2NTAxMTMxMzM3NzQ5.DtE7_A.uc9xNmio569VmD1QQ8mwFUxDRBA
 owner=392950841935527936
-prefix=~>
+prefix=>>
 game=By σтαкυвσу "̮   | ~>help
 status=ONLINE
 stayinchannel=true
